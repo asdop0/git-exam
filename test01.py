@@ -10,3 +10,4 @@ num02 = 20
 print(addNum(num01, num02))
 
 print('Program over') #추가
+num03 = 30 # 2차 추가
